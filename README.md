@@ -1,2 +1,2 @@
 # LinkedList
-Implement Linked List using advance JavaScript concepts
+Implement Linked List using native JavaScript concepts
